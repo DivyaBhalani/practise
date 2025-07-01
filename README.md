@@ -1,3 +1,3 @@
 # practise
 learning basics of git and github
-author name - Divya Bhalani
+author name - Divya Patel
